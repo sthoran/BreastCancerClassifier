@@ -35,8 +35,8 @@ Make sure you have Python installed on your system. You can download Python from
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/sthoran/breastcancerclassifier.git
-    cd breastcancerclassifier
+    git clone https://github.com/sthoran/BreastCancerClassifier.git 
+    cd BreastCancerClassifier
     ```
 
 2. Create a virtual environment (optional but recommended):
